@@ -1,0 +1,9 @@
+OneFile
+This is a decentralized filing system. 
+
+Information about the user is stored on the Etherium blockchain 
+using the createchild methong. That information is then retrieved using the
+getchild method. 
+
+You are able to store a file on IPFS and a unique has identifying the file is stored 
+on the blockchain together with information about the user. 
